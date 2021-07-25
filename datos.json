@@ -1,0 +1,105 @@
+[{
+
+        "id": 1,
+        "apellidos": "Marcillo ",
+        "nombres": "Solange ",
+        "semestre": "Quinto",
+        "paralelo": "A",
+        "direccion": "Jocay",
+        "telefono": "0999999999",
+        "correo": "sol@gmail.com"
+
+
+
+    },
+    {
+        "id": 2,
+        "apellidos": "Villafuerte",
+        "nombres": "Virginia",
+        "semestre": "Quinto",
+        "paralelo": "A",
+        "direccion": "Cuba",
+        "telefono": "0988888888",
+        "correo": "vir@gmail.com"
+    },
+    {
+        "id": 3,
+        "apellidos": "Suarez",
+        "nombres": "Carol",
+        "semestre": "Quinto",
+        "paralelo": "A",
+        "direccion": "Acaciass",
+        "telefono": "099999444",
+        "correo": "caro@gmail.com"
+    },
+    {
+        "id": 4,
+        "apellidos": "Mencias",
+        "nombres": "Pedro",
+        "semestre": "Quinto",
+        "paralelo": "A",
+        "direccion": "Urbirrios",
+        "telefono": "0999933774",
+        "correo": "pedro@gmail.com"
+    },
+    {
+        "id": 5,
+        "apellidos": "Palas",
+        "nombres": "Jesus",
+        "semestre": "Septimo",
+        "paralelo": "B",
+        "direccion": "Las Vegas",
+        "telefono": "099888777",
+        "correo": "jesus@gmail.com"
+    },
+    {
+        "id": 6,
+        "apellidos": "Solis",
+        "nombres": "Maria",
+        "semestre": "Octavo",
+        "paralelo": "A",
+        "direccion": "La Aurora",
+        "telefono": "099845734",
+        "correo": "maria@gmail.com"
+    },
+    {
+        "id": 7,
+        "apellidos": "Velez",
+        "nombres": "Carlos",
+        "semestre": "Octavo",
+        "paralelo": "B",
+        "direccion": "San Pedro",
+        "telefono": "0933333333",
+        "correo": "carlo@gmail.com"
+    },
+    {
+        "id": 8,
+        "apellidos": "Vera",
+        "nombres": "Jefferson",
+        "semestre": "Tercero",
+        "paralelo": "C",
+        "direccion": "Altagracia",
+        "telefono": "07758849",
+        "correo": "jefferson@gmail.com"
+    },
+    {
+        "id": 9,
+        "apellidos": "Mora",
+        "nombres": "Nicol",
+        "semestre": "Decimo",
+        "paralelo": "A",
+        "direccion": "Proaño",
+        "telefono": "09944444444",
+        "correo": "nicol@gmail.com"
+    },
+    {
+        "id": 10,
+        "apellidos": "Andrade",
+        "nombres": "Edgar",
+        "semestre": "Cuarto",
+        "paralelo": "C",
+        "direccion": "Colorado",
+        "telefono": "0909988788",
+        "correo": "edgar@gmail.com"
+    }
+]
